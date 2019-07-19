@@ -1,5 +1,5 @@
 let bind = require('./src/_bind')
-let exec = require('./src/_exec')
+let exec = require('./src/_exec-browser')
 let factory = require('./src/_factory')
 
 /**
